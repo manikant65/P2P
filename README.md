@@ -6,7 +6,6 @@ sharing etc. It is basically like the Bit-Torrent we have on the internet.
 - The architecture is such that there are multiple clients(users) and a tracker which stores the
 metadata of which all users have a file, basically a file-user mapping.
 
-  ![image](https://user-images.githubusercontent.com/48115585/139272264-5951ea87-0a67-4f53-a49a-c6003274e550.png)
   ![p2p](https://github.com/user-attachments/assets/17849203-8ae1-49e8-b36f-0d397f0f788a)
 
 ## Prerequisites
