@@ -1,6 +1,6 @@
 # Peer-to-Peer Group Based File Sharing System
 
-- The Mini-torrent project is basically a group based peer-to-peer file sharing network. The user
+- The project is basically a group based peer-to-peer file sharing network. The user
 has functionalities like sharing a file, downloading a file, removing a file from
 sharing etc. It is basically like the Bit-Torrent we have on the internet.
 - The architecture is such that there are multiple clients(users) and a tracker which stores the
